@@ -1,0 +1,19 @@
+
+功能介紹:
+I2C_LCD_driver--->show LCD
+1.Sensor--->DHT11 value
+2.FunC--->Device info
+3.Main---> 1 + 2
+4.Update--->Sort out to  google sheet
+5.SNMP--->Create oid-value.py
+
+架構:
+1.Rpi+感測器+SNMP
+2.將數據更新到Googlesheet
+3.最後透過Datastudio呈現
+
+Database
+https://docs.google.com/spreadsheets/d/1T0hg2MzEJLs_6PZo8-NxLaiTsg6zh60X35vpdVYXTMk/edit#gid=0
+
+
+
